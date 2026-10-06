@@ -2,4 +2,5 @@
 /data
 /notebooks
 /requirements.txt
-/scripts
+/scripts/*
+!/scripts/NewWorld/
